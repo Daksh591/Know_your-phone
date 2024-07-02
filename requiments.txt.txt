@@ -1,0 +1,2 @@
+phonenumbers==8.13.33
+streamlit==1.32.2
